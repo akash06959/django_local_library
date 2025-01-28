@@ -6,3 +6,20 @@ from django.shortcuts import render
 def index(request){
     print("Hello")
 }
+
+
+def index(request){
+    print("Hello")
+}
+
+def index(request){
+    print("Hello")
+}
+
+def index(request){
+    print("Hello")
+}
+
+def index(request){
+    print("Hello")
+}
